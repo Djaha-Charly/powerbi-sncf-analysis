@@ -39,10 +39,17 @@ Les données présentaient plusieurs incohérences :
 - Git & GitHub
 
 ## 📁 Structure du dépôt
-📦 Analyse_Flux_Voyageurs_SNCF 
-┣ 📂 captures ┃ ┣ visuel1.png ┃ ┣ visuel2.png 
-┣ 📂 data ┃ ┣ gares.csv ┃ ┣ frequentation.csv ┃ ┣ voyageurs.csv ┣ Analyse_SNCF.pbix ┣ README.md
+📦 Analyse_Flux_Voyageurs_SNCF/
+ ┃    ┣ README.md
+ ┃    ┣ gares.csv
+ ┃    ┣ frequentation.csv 
+ ┃    ┣ voyageurs.csv
+ ┃    ┣ Analyse_SNCF.pbix   ----->   Fichier powerBI desktop
 
+📂 captures/
+ ┃    ┣ visuel1.png 
+ ┃    ┣ visuel2.png 
+ ┃    ┣ visuel3.png 
 
 ## 📎 Sources
 - https://data.sncf.com/explore/dataset/frequentation-gares/
