@@ -1,0 +1,74 @@
+{
+  "name": "Thème_PowerBI_SNCF_Global",
+  "dataColors": [
+    "#4F93D9",
+    "#1A78CF",
+    "#7AADE3",
+    "#FF7F50",
+    "#FF5733",
+    "#C70039",
+    "#FFC300",
+    "#FFB677",
+    "#A6C8ED",
+    "#D4E4F7"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#1A78CF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "fontColor": "#1A78CF",
+            "fontSize": 14
+          }
+        ],
+        "labels": [
+          {
+            "color": "#333333",
+            "fontSize": 12
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": "#333333"
+          }
+        ]
+      },
+      "heatMap": {
+        "colors": [
+          {
+            "expression": {
+              "Solid": {
+                "color": "#D4E4F7"
+              }
+            }
+          },
+          {
+            "expression": {
+              "Solid": {
+                "color": "#1A78CF"
+              }
+            }
+          },
+          {
+            "expression": {
+              "Solid": {
+                "color": "#C70039"
+              }
+            }
+          }
+        ]
+      },
+      "map": {
+        "dataColors": [
+          "#4F93D9",
+          "#FF7F50",
+          "#FF5733",
+          "#C70039"
+        ]
+      }
+    }
+  }
+}
