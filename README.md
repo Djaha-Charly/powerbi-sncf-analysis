@@ -59,4 +59,4 @@ Les données présentaient plusieurs incohérences :
 ## 📌 Auteur
 Charly William Djaha Yankep  
 📍 Saint-Pierre-des-Corps, France  
-🎯 Data Analyst Junior en reconversion
+🎯 Data Analyst Junior
